@@ -1,6 +1,7 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+## Aim: 
+To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
 1.Straightforward Prompts
 
@@ -12,36 +13,40 @@ Aim: To write the prompts for the following prompt types for 2 different scenari
 
 Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
 
-Procedure:
+## Procedure:
 
 Write 2 different prompts for different use cases, refer the following Examples
 
-Example:
+### Example:
 
-Straightforward Prompts:
+#### Straightforward Prompts:
 
 • "Define photosynthesis in one sentence."
 
 "List three advantages of electric vehicles."
 
-Tabular Format Prompting:
+#### Tabular Format Prompting:
 
 • "Compare and contrast AC and DC current in a table."
 
 • "Provide a table listing five programming languages, their paradigms, and one use case each."
 
-Preceding Question Prompting:
+#### Preceding Question Prompting:
 
 • "Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
 
 • "How do vaccines work? Describe the process of immunization in simple terms."
 
-Missing Word Prompting:
+#### Missing Word Prompting:
 
 • "The capital of France is ____."
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
-OUTPUT:
+## OUTPUT:
 
-RESULT: 
+[EX 03 Prompt Eng.pdf](https://github.com/user-attachments/files/25964480/EX.03.Prompt.Eng.pdf)
+
+## RESULT: 
+
+The experiment provided a clear understanding of Generative AI, its models, modern AI tools, and the construction of LLMs. The evolution timeline highlights how AI has progressed from rule-based systems to advanced generative and multimodal intelligence.
